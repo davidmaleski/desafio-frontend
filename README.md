@@ -2,12 +2,6 @@
 
 ![alt tag](https://s3-us-west-1.amazonaws.com/1sti/1sti-transformacao.png)
 
-## Bem-vindo
-
-A 1STi é uma consultoria em tecnologias digitais emergentes que tem a missão de aproximar a tecnologia das reais necessidades sociais. Nós enxergamos a tecnologia como um presente à humanidade dado pela expressão de nosso próprio intelecto, realizando uma síntese entre arte, humanidade e ciência.
-
-Nosso modelo de negócios combina projetos de valor compartilhado com consultoria nas tecnologias mais avançadas. Esse desafio é uma oportunidade para fazer parte do nosso time em uma jornada de aprendizado e desenvolvimento de interfaces web!
-
 ## Aprendizado e desenvolvimento
 
 Você pode esperar um trabalho intenso em projetos HTML5/CSS3 com o framework React, do facebook, e boas práticas em Redux, um mecanismo de gerenciamento de estado de aplicações, além de diversos componentes javascript. 
@@ -18,11 +12,6 @@ O trabalho é home office, com carga horária de 6 horas por dia e comunicação
 
 O valor da bolsa de estágio por 01 ano é de R$ 1.000,00/mês.
 Serão dois selecionados e apos o desafio técnico teremos conversas por skype, mas fique à vontade para já ir nos conhecendo no slack.
-
-## Como participar
-
-* Crie um novo fork e branch com seu nome-sobrenome e faça um pull request quando estiver pronto. Iremos fazer code review.
-* Envie um email para ola@1sti.com.br para te adicionarmos ao time slack do desafio.
 
 ## O desafio
 
@@ -40,6 +29,14 @@ Mobile responsivo:
 
 ![alt tag](https://s3-us-west-1.amazonaws.com/1sti/desafio-mobile2.png)
 
+## Avaliação
+
+1. O desafio deve ser enviado para a pessoa no grupo do Discord abrindo um ticket, no formato de `.zip` ou um link para um repositório do Github
+2. Iremos te avaliar pela arquitetura do serviço, qualidade do código, entendimento das regras de negócio, capricho com o desafio e o quão preparado esse serviço estaria para ser rodado em produção
+3. Depois que corrigirmos o desafio, te chamaremos para conversar com o time, apresentar o desafio e discutir sobre as decisões que você tomou
+4. Achamos que **1 semana** é um tempo ok para fazer o desafio, mas sabemos que nem todo mundo tem o mesmo nível de disponibilidade. Portanto, nos avise se precisar de mais tempo, ok?
+5. Boa sorte :)
+
 ## Dicas
 
 * Tudo bem, até pode usar jquery. Se você não quiser usar (bônus), uma sugestão: Axios para a comunicação com a API.
@@ -48,5 +45,3 @@ Mobile responsivo:
 * Pré-processadores CSS como Stylus ou LESS também.
 * Que tal utilizar BEM nos identificadores css? http://getbem.com/naming/
 
-*
-* Creditos: Igor Couto

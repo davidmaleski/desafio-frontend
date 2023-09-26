@@ -11,6 +11,14 @@ O trabalho é home office, com carga horária de 6 horas por dia e comunicação
 O valor da bolsa de estágio por 01 ano é de R$ 1.000,00/mês.
 Serão dois selecionados e apos o desafio técnico teremos conversas por skype, mas fique à vontade para já ir nos conhecendo no slack.
 
+## Dicas
+
+* Tudo bem, até pode usar jquery. Se você não quiser usar (bônus), uma sugestão: Axios para a comunicação com a API.
+* HTML o mais semântico possível.
+* Branches com readme e instruções de implantação serão bem vindos.
+* Pré-processadores CSS como Stylus ou LESS também.
+* Que tal utilizar BEM nos identificadores css? http://getbem.com/naming/
+
 ## O desafio
 
 Vamos dar uma olhada na previsão do tempo? A meta é criarmos uma página simples, que consuma a API do Yahoo de previsão do tempo (https://developer.yahoo.com/weather/). O layout final deverá ficar o mais próximo possível da versão abaixo (sim, vamos ter a versão responsiva mobile e a versão desktop):
@@ -34,12 +42,4 @@ Mobile responsivo:
 3. Depois que corrigirmos o desafio, te chamaremos para conversar com o time, apresentar o desafio e discutir sobre as decisões que você tomou
 4. Achamos que **1 semana** é um tempo ok para fazer o desafio, mas sabemos que nem todo mundo tem o mesmo nível de disponibilidade. Portanto, nos avise se precisar de mais tempo, ok?
 5. Boa sorte :)
-
-## Dicas
-
-* Tudo bem, até pode usar jquery. Se você não quiser usar (bônus), uma sugestão: Axios para a comunicação com a API.
-* HTML o mais semântico possível.
-* Branches com readme e instruções de implantação serão bem vindos.
-* Pré-processadores CSS como Stylus ou LESS também.
-* Que tal utilizar BEM nos identificadores css? http://getbem.com/naming/
 
